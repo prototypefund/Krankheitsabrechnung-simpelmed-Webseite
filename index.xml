@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on simpelmed</title>
+    <link>https://simpelmed.de/</link>
+    <description>Recent content in index on simpelmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>kontakt@simpelmed.de (Berthold Gehrke)</managingEditor>
+    <webMaster>kontakt@simpelmed.de (Berthold Gehrke)</webMaster>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://simpelmed.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>faq</title>
+      <link>https://simpelmed.de/faq/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/faq/</guid>
+      <description>Hier einige Infos zu SimpelMed auf einen Blick. Klicken Sie auf die Überschrift, um die Antworten zu sehen. Mit einem zweiten Klick werden sie wieder eingeklappt ...
+Diese Seite wird fortlaufend ergänzt. Falls Sie weitere Fragen stellen möchten, bitte per Mail an kontakt ädd simpelmed.de
+Was ist SimpelMed? Eine auf die deutsche Situation abgestimmte Ergänzung zum Projekt GNUmed.
+Welche Personen stecken hinter SimpelMed? Informieren Sie sich zum Team.
+Wie werden die Seiten der Homepage &amp;#39;simpelmed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/impressum/</guid>
+      <description>Angaben gemäß § 5 TMG: Berthold Gehrke &amp;amp; Alexandra Rupp GbR Klenzestr. 59 80469 München
+Allein vertretungsberechtigter Gesellschafter: Dr. Berthold Gehrke
+Kontakt Telefon: +498930791919 E-Mail: kontakt ädd simpelmed.de oder : berthold.gehrke ädd web.de
+Hinweis Verantwortlich für redaktionelle Inhalte: Dr. Berthold Gehrke
+Steuernummer / Kontoverbindung Finanzamt München: 143/522/006•• USt-Id: DE3627193•• Konto: IBAN DE73 3006 0601 0028 9880 •• BIC DAAEDEDDXXX
+(die jeweils zwei letzten Ziffern •• auf Nachfrage)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/infos/arbeitsumgebung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/infos/arbeitsumgebung/</guid>
+      <description>Arbeitsumgebung SimpelMed / PostgreSQL / Python Benötigt werden:
+ein Arbeitsrechner mit genügend RAM (mindestens 8 GB, besser 16 GB) und ausreichend schneller Festplatte (vorzugseise SSD) eine PostgreSQL-Datenbank, Server sinnvollerweise in virtueller Maschine (optional, aber empfehlenswert) eine weiterere virtuelle Maschine mit der DB-Management-Oberfläche pgadmin4 diese »drei« Rechner werden über ein lokales Netz verbunden und sind gegenseitig ansprechbar/erreichbar. Die Login-Namen der Standard-Nutzer des Host- und der Gastrechner sind unerheblich und könnten ohne Einschränkungen sogar identisch sein.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/infos/foerderung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/infos/foerderung/</guid>
+      <description>Förderung Das Projekt wird gefördert durch Mittel des BMBF. Was bedeutet das? Um nicht alles abtippen zu müssen, verweisen wir auf die Informationen des Projektträgers. Dort findet sich alles zu den Formalitäten dieses Vorhabens nebst einer offiziellen Beschreibung. Darüber hinaus erhalten Sie umfassendes Material zu weiteren geförderten Projekten.
+https://prototypefund.de/project/krankheitsabrechnung-zurueck-in-aerztinnenhand/
+Nicht zuletzt stellt sich der Prototype Fund ausführlich selbst vor und gibt Detailinfos zu seiner Arbeit, seinen Auftraggebern und Finanzierungsmodellen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/infos/gnumed-einrichtung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/infos/gnumed-einrichtung/</guid>
+      <description>GNUmed Einrichtung Fahrplan und Schritte Nun, da eine »leere« GNUmed-Installation vorliegt, muss diese noch an ein realistisches Szenario angepasst werden. Ganz zu Anfang muss der »GNUmed-Client« installiert werden: bisher läuft ja nur der GNUmed-Server, der allerdings einzig für den Administrator überhaupt »sichtbar« ist. Eine Anwenderin für die Alltags-Benutzung existiert (noch) nicht, es gibt keine Zugangsdaten und keine graphische Oberfläche.
+1) Client-Pakete 2) Start GNUmed 3) Inspektion 4) Bereinigung
+Client-Pakete Der erste Schritt besteht im Installieren der Client-Pakete.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/infos/gnumed-installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/infos/gnumed-installation/</guid>
+      <description>GNUmed Datenbank Installation Fahrplan In mehreren Schritten wird nun eine »leere« GNUmed-Datenbank installiert und eingerichtet, auf der die darauf folgenden Entwicklungsschritte stattfinden werden. Etwas vereinfacht sieht dies wie folgt aus: 1) Server-Pakete aus den Debian-Repos installieren, 2) Anpassung an deutsche Sprachversion vornehmen, 3) → Bugfix durchführen ← (je nach verwendeter Version der Daten lässt sich GNUmed sonst nicht installieren! siehe unten), 4) Bootstrap der GNUmed-Datenbank und schließlich 5) weitere Anpassungen vornehmen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/infos/postgresql-pgadmin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/infos/postgresql-pgadmin/</guid>
+      <description>PostgreSQL / pgAdmin PostgreSQL-Server Optional: Auf dem virtuellen Rechner, der als PostgreSQL-Server dienen soll, werden alle offensichtlich nicht benötigten Programme deinstalliert: - Thunderbird - LibreOffice - CUPS (Druckerverwaltung) - und andere - allerdings sollten nur eindeutig bekannte Kandidaten entfernt werden, sonst drohen Funktionseinschränkungen. Insbesondere lib*-Dateien bleiben am besten unangetastet, es sei denn, man kennt ihre nicht mehr benötigte Funktion genau …
+Nun wird der PostgreSQL-Server aus den Paketen installiert.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/infos/repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/infos/repo/</guid>
+      <description>Repo bei Gitlab Schauen Sie hier:
+https://gitlab.com/bgehrke/simpelmed</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/infos/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/infos/team/</guid>
+      <description>Team SimpelMed Dr. Dipl.-Inf. Berthold Gehrke, LLM Studium der Medizin in Essen und München Abschluss: Staatsexamen, Approbation, Promotion Thema der Dissertation: Zeitreihenanalyse der Herzfrequenz von Rauchern
+Studium der Informatik mit Nebenfach Mathematik in Bonn, Hagen und München Abschluss: Diplom-Informatiker (Dipl.-Inf.) Thema der Diplom-Arbeit: Datenmanagement in einem Verlag
+Studium Jura (Rechtswissenschaft) in Hagen und München (LMU) Thema der Masterarbeit (LLM): Gleichstellungsproblematik in medizinischen Katalogen
+Berufliche Tätigkeiten in den letzten 20 Jahren: Fachkliniken Innere Medizin und Dermatologie Praxis Dermatologie und Allergologie Medizinisches Controlling Software-Projekte (vor allem im Gesundheitswesen) mit Personal- und Budgetverantwortung</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/projekt/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/projekt/downloads/</guid>
+      <description> SimpelMed-Installationsdateien Klick SimpelMed
+wget wget https://simpelmed.de/simpelmed_install.zip </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/projekt/installscript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/projekt/installscript/</guid>
+      <description>SimpelMed-Dateien Eine GNUmed-Instanz wird durch das hier beschriebene Verfahren zu SimpelMed.
+Datei-Archiv Im Repo hier befindet sich die Datei simpelmed_install.zip
+Diese Datei steht auch hier im Download-Bereich zur Verfügung.
+Das Archiv enthält alle notwendigen Dateien, um aus einem vorhandenen GNUmed eine SimpelMed Instanz zu erzeugen. Beachten Sie, dass ohne Weiteres alle bisherigen Inhalte überschrieben werden und legen Sie unbedingt vor Beginn jeder Manipulation eine vollständige Sicherungskopie an! [Das machen Sie ja sowieso (mehrmals) täglich, oder?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/projekt/remote-zugriff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/projekt/remote-zugriff/</guid>
+      <description>Live-Demo Remote Nicht jede(r) Interessent(in) am Projekt SimpelMed möchte verständlicherweie auf ihrem/seinem Rechner das Paket installieren. Zumal dessen Einrichtung, wie aus den Infos dieser Homepage hervorgeht, nicht immer auf Anhieb glatt gelingt …
+Voraussetzungen Die Demo steht auf einem vServer bereit. Zur Verbindung wird ein »Remote-Desktop« aufgebaut. Dieser steht für alle Betriebsysteme kostenlos zur Verfügung und ist in vielen Fällen sogar ohne nachträgliche Konfiguration oder Download-Notwendigkeit »out-of-the-box« betriebsbereit.
+Windows Zur Verfügung steht der Windows-Remote Desktop, siehe z.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/projekt/simpelmed-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/projekt/simpelmed-start/</guid>
+      <description>SimpelMed in Aktion SimpelMed ist einsatzfähig, die Logik der Kassenabbrechnung funktioniert.
+Funktionen Die folgenden Funktionen sind erfolgreich implementiert: - Standard Vorbelegung mit der Pauschale, entsprechend dem Alter der Patientin, - Eingabe von EBM-Ziffern durch die Praxisinhaberin, - Darstellung einfacher Statistik zur Abrechnung.
+Einen Einblick dazu geben die Screenshots hier.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://simpelmed.de/schnellstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/schnellstart/</guid>
+      <description>Schnellstart Es gibt mehrere Möglichkeiten, sich mit SimpelMed vertraut zu machen. Hier folgt unsere Empfehlung.
+Demo Klicken Sie sich in und durch die Demo. Hier gewinnen Sie einen ersten Eindruck. Alle Infos zum Zugang hier. Bitte haben Sie Verständnis, wenn wir die Zugangsdaten aus Sicherheitsgründen gelegentlich ändern und/oder nur auf Anforderung freigeben. Eine Mail genügt.
+Eigene Installation Sie möchten eine eigene Installation von SimpelMed nutzen? Führen Sie folgende Schritte durch:</description>
+    </item>
+    
+    <item>
+      <title>datenschutz</title>
+      <link>https://simpelmed.de/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@simpelmed.de (Berthold Gehrke)</author>
+      <guid>https://simpelmed.de/datenschutz/</guid>
+      <description>Datenschutzerklärung 1. Datenschutz auf einen Blick Allgemeine Hinweise Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+Datenerfassung auf dieser Website Wer ist verantwortlich für die Datenerfassung auf dieser Website? Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</description>
+    </item>
+    
+  </channel>
+</rss>
